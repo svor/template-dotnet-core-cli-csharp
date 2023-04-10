@@ -1,1 +1,1 @@
-FROM quay.io/devfile/universal-developer-image:latest
+FROM vsvydenko/udi:dot
