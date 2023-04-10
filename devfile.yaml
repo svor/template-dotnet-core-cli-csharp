@@ -4,7 +4,7 @@ metadata:
 components:
   - name: tools
     container:
-      image: vsvydenko/dotnet:7
+      image: vsvydenko/udi:dot
       args: ['tail', '-f', '/dev/null']
       memoryRequest: 256M
       memoryLimit: 6Gi
